@@ -1,4 +1,4 @@
-# course-databases-datamining
+# Databases and Data Mining
 Assignments of the course Databases and Data Mining at Leiden University, 2018
 
 Authors: Alex van Vorstenbosch, Eva van Weenen, Irene Haasnoot and Paul Couzy
