@@ -1,0 +1,344 @@
+EnsemblID,UniProtID,Entry_name,Protein_names,Gene_names,Gene_names_primary
+ENSP00000000412,P20645,MPRD_HUMAN,Cation-dependent mannose-6-phosphate receptor (CD Man-6-P receptor) (CD-MPR) (46 kDa mannose 6-phosphate receptor) (MPR 46),M6PR MPR46 MPRD,M6PR
+ENSP00000003084,P13569,CFTR_HUMAN,Cystic fibrosis transmembrane conductance regulator (CFTR) (ATP-binding cassette sub-family C member 7) (Channel conductance-controlling ATPase) (EC 3.6.3.49) (cAMP-dependent chloride channel),CFTR ABCC7,CFTR
+ENSP00000009530,P04233,HG2A_HUMAN,HLA class II histocompatibility antigen gamma chain (HLA-DR antigens-associated invariant chain) (Ia antigen-associated invariant chain) (Ii) (p33) (CD antigen CD74),CD74 DHLAG,CD74
+ENSP00000011653,P01730,CD4_HUMAN,T-cell surface glycoprotein CD4 (T-cell surface antigen T4/Leu-3) (CD antigen CD4),CD4,CD4
+ENSP00000054666,Q15836,VAMP3_HUMAN,Vesicle-associated membrane protein 3 (VAMP-3) (Cellubrevin) (CEB) (Synaptobrevin-3),VAMP3 SYB3,VAMP3
+ENSP00000057513,Q96KP6,TNIP3_HUMAN,TNFAIP3-interacting protein 3 (A20-binding inhibitor of NF-kappa-B activation 3) (ABIN-3) (Listeria-induced gene protein),TNIP3 ABIN3 LIND,TNIP3
+ENSP00000155840,P51787,KCNQ1_HUMAN,Potassium voltage-gated channel subfamily KQT member 1 (IKs producing slow voltage-gated potassium channel subunit alpha KvLQT1) (KQT-like 1) (Voltage-gated potassium channel subunit Kv7.1),KCNQ1 KCNA8 KCNA9 KVLQT1,KCNQ1
+ENSP00000162749,P19438,TNR1A_HUMAN,Tumor necrosis factor receptor superfamily member 1A (Tumor necrosis factor receptor 1) (TNF-R1) (Tumor necrosis factor receptor type I) (TNF-RI) (TNFR-I) (p55) (p60) (CD antigen CD120a) [Cleaved into: Tumor necrosis factor receptor superfamily member 1A  membrane form; Tumor necrosis factor-binding protein 1 (TBPI)],TNFRSF1A TNFAR TNFR1,TNFRSF1A
+ENSP00000164227,P20749,BCL3_HUMAN,B-cell lymphoma 3 protein (BCL-3) (Proto-oncogene BCL3),BCL3 BCL4 D19S37,BCL3
+ENSP00000176195,P09683,SECR_HUMAN,Secretin,SCT,SCT
+ENSP00000206249,P03372,ESR1_HUMAN,Estrogen receptor (ER) (ER-alpha) (Estradiol receptor) (Nuclear receptor subfamily 3 group A member 1),ESR1 ESR NR3A1,ESR1
+ENSP00000216223,P14784,IL2RB_HUMAN,Interleukin-2 receptor subunit beta (IL-2 receptor subunit beta) (IL-2R subunit beta) (IL-2RB) (High affinity IL-2 receptor subunit beta) (Interleukin-15 receptor subunit beta) (p70-75) (p75) (CD antigen CD122),IL2RB IL15RB,IL2RB
+ENSP00000216341,P10144,GRAB_HUMAN,Granzyme B (EC 3.4.21.79) (C11) (CTLA-1) (Cathepsin G-like 1) (CTSGL1) (Cytotoxic T-lymphocyte proteinase 2) (Lymphocyte protease) (Fragmentin-2) (Granzyme-2) (Human lymphocyte protein) (HLP) (SECT) (T-cell serine protease 1-3E),GZMB CGL1 CSPB CTLA1 GRB,GZMB
+ENSP00000216797,P25963,IKBA_HUMAN,NF-kappa-B inhibitor alpha (I-kappa-B-alpha) (IkB-alpha) (IkappaBalpha) (Major histocompatibility complex enhancer-binding protein MAD3),NFKBIA IKBA MAD3 NFKBI,NFKBIA
+ENSP00000217407,P18428,LBP_HUMAN,Lipopolysaccharide-binding protein (LBP),LBP,LBP
+ENSP00000217426,P23526,SAHH_HUMAN,Adenosylhomocysteinase (AdoHcyase) (EC 3.3.1.1) (S-adenosyl-L-homocysteine hydrolase),AHCY SAHH,AHCY
+ENSP00000218032,Q9NR97,TLR8_HUMAN,Toll-like receptor 8 (CD antigen CD288),TLR8 UNQ249/PRO286,TLR8
+ENSP00000219548,Q9UNE7,CHIP_HUMAN,E3 ubiquitin-protein ligase CHIP (EC 2.3.2.27) (Antigen NY-CO-7) (CLL-associated antigen KW-8) (Carboxy terminus of Hsp70-interacting protein) (RING-type E3 ubiquitin transferase CHIP) (STIP1 homology and U box-containing protein 1),STUB1 CHIP PP1131,STUB1
+ENSP00000220003,P41240,CSK_HUMAN,Tyrosine-protein kinase CSK (EC 2.7.10.2) (C-Src kinase) (Protein-tyrosine kinase CYL),CSK,CSK
+ENSP00000220751,O43353,RIPK2_HUMAN,Receptor-interacting serine/threonine-protein kinase 2 (EC 2.7.11.1) (CARD-containing interleukin-1 beta-converting enzyme-associated kinase) (CARD-containing IL-1 beta ICE-kinase) (RIP-like-interacting CLARP kinase) (Receptor-interacting protein 2) (RIP-2) (Tyrosine-protein kinase RIPK2) (EC 2.7.10.2),RIPK2 CARDIAK RICK RIP2 UNQ277/PRO314/PRO34092,RIPK2
+ENSP00000220764,Q16698,DECR_HUMAN,2 4-dienoyl-CoA reductase  mitochondrial (EC 1.3.1.34) (2 4-dienoyl-CoA reductase [NADPH]) (4-enoyl-CoA reductase [NADPH]) (Short chain dehydrogenase/reductase family 18C member 1),DECR1 DECR SDR18C1,DECR1
+ENSP00000221130,P00390,GSHR_HUMAN,Glutathione reductase  mitochondrial (GR) (GRase) (EC 1.8.1.7),GSR GLUR GRD1,GSR
+ENSP00000221452,Q01201,RELB_HUMAN,Transcription factor RelB (I-Rel),RELB,RELB
+ENSP00000222693,P51636,CAV2_HUMAN,Caveolin-2,CAV2,CAV2
+ENSP00000222823,Q9Y239,NOD1_HUMAN,Nucleotide-binding oligomerization domain-containing protein 1 (Caspase recruitment domain-containing protein 4),NOD1 CARD4,NOD1
+ENSP00000223023,O00401,WASL_HUMAN,Neural Wiskott-Aldrich syndrome protein (N-WASP),WASL,WASL
+ENSP00000223190,Q16656,NRF1_HUMAN,Nuclear respiratory factor 1 (NRF-1) (Alpha palindromic-binding protein) (Alpha-pal),NRF1,NRF1
+ENSP00000225831,P13500,CCL2_HUMAN,C-C motif chemokine 2 (HC11) (Monocyte chemoattractant protein 1) (Monocyte chemotactic and activating factor) (MCAF) (Monocyte chemotactic protein 1) (MCP-1) (Monocyte secretory protein JE) (Small-inducible cytokine A2),CCL2 MCP1 SCYA2,CCL2
+ENSP00000226317,P80162,CXCL6_HUMAN,C-X-C motif chemokine 6 (Chemokine alpha 3) (CKA-3) (Granulocyte chemotactic protein 2) (GCP-2) (Small-inducible cytokine B6) [Cleaved into: Small-inducible cytokine B6  N-processed variant 1; Small-inducible cytokine B6  N-processed variant 2; Small-inducible cytokine B6  N-processed variant 3],CXCL6 GCP2 SCYB6,CXCL6
+ENSP00000226574,P19838,NFKB1_HUMAN,Nuclear factor NF-kappa-B p105 subunit (DNA-binding factor KBF1) (EBP-1) (Nuclear factor of kappa light polypeptide gene enhancer in B-cells 1) [Cleaved into: Nuclear factor NF-kappa-B p50 subunit],NFKB1,NFKB1
+ENSP00000226730,P60568,IL2_HUMAN,Interleukin-2 (IL-2) (T-cell growth factor) (TCGF) (Aldesleukin),IL2,IL2
+ENSP00000228534,Q9NPF7,IL23A_HUMAN,Interleukin-23 subunit alpha (IL-23 subunit alpha) (IL-23-A) (Interleukin-23 subunit p19) (IL-23p19),IL23A SGRF UNQ2498/PRO5798,IL23A
+ENSP00000229135,P01579,IFNG_HUMAN,Interferon gamma (IFN-gamma) (Immune interferon),IFNG,IFNG
+ENSP00000229239,P04406,G3P_HUMAN,Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) (EC 1.2.1.12) (Peptidyl-cysteine S-nitrosylase GAPDH) (EC 2.6.99.-),GAPDH GAPD CDABP0047 OK/SW-cl.12,GAPDH
+ENSP00000229264,P16520,GBB3_HUMAN,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3 (Transducin beta chain 3),GNB3,GNB3
+ENSP00000229794,Q16539,MK14_HUMAN,Mitogen-activated protein kinase 14 (MAP kinase 14) (MAPK 14) (EC 2.7.11.24) (Cytokine suppressive anti-inflammatory drug-binding protein) (CSAID-binding protein) (CSBP) (MAP kinase MXI2) (MAX-interacting protein 2) (Mitogen-activated protein kinase p38 alpha) (MAP kinase p38 alpha) (Stress-activated protein kinase 2a) (SAPK2a),MAPK14 CSBP CSBP1 CSBP2 CSPB1 MXI2 SAPK2A,MAPK14
+ENSP00000229829,P06340,DOA_HUMAN,HLA class II histocompatibility antigen  DO alpha chain (MHC DN-alpha) (MHC DZ alpha) (MHC class II antigen DOA),HLA-DOA HLA-DNA HLA-DZA,HLA-DOA
+ENSP00000231228,P29460,IL12B_HUMAN,Interleukin-12 subunit beta (IL-12B) (Cytotoxic lymphocyte maturation factor 40 kDa subunit) (CLMF p40) (IL-12 subunit p40) (NK cell stimulatory factor chain 2) (NKSF2),IL12B NKSF2,IL12B
+ENSP00000231449,P05112,IL4_HUMAN,Interleukin-4 (IL-4) (B-cell stimulatory factor 1) (BSF-1) (Binetrakin) (Lymphocyte stimulatory factor 1) (Pitrakinra),IL4,IL4
+ENSP00000233242,P04114,APOB_HUMAN,Apolipoprotein B-100 (Apo B-100) [Cleaved into: Apolipoprotein B-48 (Apo B-48)],APOB,APOB
+ENSP00000233957,Q13478,IL18R_HUMAN,Interleukin-18 receptor 1 (IL-18R-1) (IL-18R1) (CD218 antigen-like family member A) (CDw218a) (IL1 receptor-related protein) (IL-1Rrp) (IL1R-rp) (Interleukin-18 receptor alpha) (IL-18R-alpha) (IL-18Ralpha) (CD antigen CD218a),IL18R1 IL1RRP,IL18R1
+ENSP00000235933,O95971,BY55_HUMAN,CD160 antigen (Natural killer cell receptor BY55) (CD antigen CD160),CD160 BY55,CD160
+ENSP00000237289,P21580,TNAP3_HUMAN,Tumor necrosis factor alpha-induced protein 3 (TNF alpha-induced protein 3) (EC 2.3.2.-) (EC 3.4.19.12) (OTU domain-containing protein 7C) (Putative DNA-binding protein A20) (Zinc finger protein A20) [Cleaved into: A20p50; A20p37],TNFAIP3 OTUD7C,TNFAIP3
+ENSP00000237527,P01286,SLIB_HUMAN,Somatoliberin (Growth hormone-releasing factor) (GRF) (Growth hormone-releasing hormone) (GHRH) (Somatocrinin) (Somatorelin) (Sermorelin),GHRH GHRF,GHRH
+ENSP00000239938,P18146,EGR1_HUMAN,Early growth response protein 1 (EGR-1) (AT225) (Nerve growth factor-induced protein A) (NGFI-A) (Transcription factor ETR103) (Transcription factor Zif268) (Zinc finger protein 225) (Zinc finger protein Krox-24),EGR1 KROX24 ZNF225,EGR1
+ENSP00000242152,P01303,NPY_HUMAN,Pro-neuropeptide Y [Cleaved into: Neuropeptide Y (Neuropeptide tyrosine) (NPY); C-flanking peptide of NPY (CPON)],NPY,NPY
+ENSP00000245206,P00505,AATM_HUMAN,Aspartate aminotransferase  mitochondrial (mAspAT) (EC 2.6.1.1) (EC 2.6.1.7) (Fatty acid-binding protein) (FABP-1) (Glutamate oxaloacetate transaminase 2) (Kynurenine aminotransferase 4) (Kynurenine aminotransferase IV) (Kynurenine--oxoglutarate transaminase 4) (Kynurenine--oxoglutarate transaminase IV) (Plasma membrane-associated fatty acid-binding protein) (FABPpm) (Transaminase A),GOT2,GOT2
+ENSP00000245414,P10914,IRF1_HUMAN,Interferon regulatory factor 1 (IRF-1),IRF1,IRF1
+ENSP00000245620,O75022,LIRB3_HUMAN,Leukocyte immunoglobulin-like receptor subfamily B member 3 (LIR-3) (Leukocyte immunoglobulin-like receptor 3) (CD85 antigen-like family member A) (Immunoglobulin-like transcript 5) (ILT-5) (Monocyte inhibitory receptor HL9) (CD antigen CD85a),LILRB3 ILT5 LIR3,LILRB3
+ENSP00000245907,P01024,CO3_HUMAN,Complement C3 (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 1) [Cleaved into: Complement C3 beta chain; C3-beta-c (C3bc); Complement C3 alpha chain; C3a anaphylatoxin; Acylation stimulating protein (ASP) (C3adesArg); Complement C3b alpha' chain; Complement C3c alpha' chain fragment 1; Complement C3dg fragment; Complement C3g fragment; Complement C3d fragment; Complement C3f fragment; Complement C3c alpha' chain fragment 2],C3 CPAMD1,C3
+ENSP00000246657,P32248,CCR7_HUMAN,C-C chemokine receptor type 7 (C-C CKR-7) (CC-CKR-7) (CCR-7) (BLR2) (CDw197) (Epstein-Barr virus-induced G-protein coupled receptor 1) (EBI1) (EBV-induced G-protein coupled receptor 1) (MIP-3 beta receptor) (CD antigen CD197),CCR7 CMKBR7 EBI1 EVI1,CCR7
+ENSP00000248244,Q8IUC6,TCAM1_HUMAN,TIR domain-containing adapter molecule 1 (TICAM-1) (Proline-rich  vinculin and TIR domain-containing protein B) (Putative NF-kappa-B-activating protein 502H) (Toll-interleukin-1 receptor domain-containing adapter protein inducing interferon beta) (MyD88-3) (TIR domain-containing adapter protein inducing IFN-beta),TICAM1 PRVTIRB TRIF,TICAM1
+ENSP00000248923,P19440,GGT1_HUMAN,Glutathione hydrolase 1 proenzyme (EC 3.4.19.13) (Gamma-glutamyltransferase 1) (Gamma-glutamyltranspeptidase 1) (GGT 1) (EC 2.3.2.2) (Leukotriene-C4 hydrolase) (EC 3.4.19.14) (CD antigen CD224) [Cleaved into: Glutathione hydrolase 1 heavy chain; Glutathione hydrolase 1 light chain],GGT1 GGT,GGT1
+ENSP00000250971,P01308,INS_HUMAN,Insulin [Cleaved into: Insulin B chain; Insulin A chain],INS,INS
+ENSP00000251372,O75019,LIRA1_HUMAN,Leukocyte immunoglobulin-like receptor subfamily A member 1 (CD85 antigen-like family member I) (Leukocyte immunoglobulin-like receptor 6) (LIR-6) (CD antigen CD85i),LILRA1 LIR6,LILRA1
+ENSP00000251377,Q8N149,LIRA2_HUMAN,Leukocyte immunoglobulin-like receptor subfamily A member 2 (CD85 antigen-like family member H) (Immunoglobulin-like transcript 1) (ILT-1) (Leukocyte immunoglobulin-like receptor 7) (LIR-7) (CD antigen CD85h),LILRA2 ILT1 LIR7,LILRA2
+ENSP00000252723,P01588,EPO_HUMAN,Erythropoietin (Epoetin),EPO,EPO
+ENSP00000252771,O14526,FCHO1_HUMAN,F-BAR domain only protein 1,FCHO1 KIAA0290,FCHO1
+ENSP00000253004,P00966,ASSY_HUMAN,Argininosuccinate synthase (EC 6.3.4.5) (Citrulline--aspartate ligase),ASS1 ASS,ASS1
+ENSP00000254436,P19474,RO52_HUMAN,E3 ubiquitin-protein ligase TRIM21 (EC 2.3.2.27) (52 kDa Ro protein) (52 kDa ribonucleoprotein autoantigen Ro/SS-A) (RING finger protein 81) (RING-type E3 ubiquitin transferase TRIM21) (Ro(SS-A)) (Sjoegren syndrome type A antigen) (SS-A) (Tripartite motif-containing protein 21),TRIM21 RNF81 RO52 SSA1,TRIM21
+ENSP00000255030,P02741,CRP_HUMAN,C-reactive protein [Cleaved into: C-reactive protein(1-205)],CRP PTX1,CRP
+ENSP00000255040,P02743,SAMP_HUMAN,Serum amyloid P-component (SAP) (9.5S alpha-1-glycoprotein) [Cleaved into: Serum amyloid P-component(1-203)],APCS PTX2,APCS
+ENSP00000256458,O43187,IRAK2_HUMAN,Interleukin-1 receptor-associated kinase-like 2 (IRAK-2),IRAK2,IRAK2
+ENSP00000258494,Q3SY69,AL1L2_HUMAN,Mitochondrial 10-formyltetrahydrofolate dehydrogenase (Mitochondrial 10-FTHFDH) (mtFDH) (EC 1.5.1.6) (Aldehyde dehydrogenase family 1 member L2),ALDH1L2,ALDH1L2
+ENSP00000258743,P05231,IL6_HUMAN,Interleukin-6 (IL-6) (B-cell stimulatory factor 2) (BSF-2) (CTL differentiation factor) (CDF) (Hybridoma growth factor) (Interferon beta-2) (IFN-beta-2),IL6 IFNB2,IL6
+ENSP00000259206,P18510,IL1RA_HUMAN,Interleukin-1 receptor antagonist protein (IL-1RN) (IL-1ra) (IRAP) (ICIL-1RA) (IL1 inhibitor) (Anakinra),IL1RN IL1F3 IL1RA,IL1RN
+ENSP00000259607,O00585,CCL21_HUMAN,C-C motif chemokine 21 (6Ckine) (Beta-chemokine exodus-2) (Secondary lymphoid-tissue chemokine) (SLC) (Small-inducible cytokine A21),CCL21 SCYA21 UNQ784/PRO1600,CCL21
+ENSP00000260010,O60603,TLR2_HUMAN,Toll-like receptor 2 (Toll/interleukin-1 receptor-like protein 4) (CD antigen CD282),TLR2 TIL4,TLR2
+ENSP00000261233,Q9Y616,IRAK3_HUMAN,Interleukin-1 receptor-associated kinase 3 (IRAK-3) (EC 2.7.11.1) (IL-1 receptor-associated kinase M) (IRAK-M),IRAK3,IRAK3
+ENSP00000262186,Q12809,KCNH2_HUMAN,Potassium voltage-gated channel subfamily H member 2 (Eag homolog) (Ether-a-go-go-related gene potassium channel 1) (ERG-1) (Eag-related protein 1) (Ether-a-go-go-related protein 1) (H-ERG) (hERG-1) (hERG1) (Voltage-gated potassium channel subunit Kv11.1),KCNH2 ERG ERG1 HERG,KCNH2
+ENSP00000262878,Q9Y3Z3,SAMH1_HUMAN,Deoxynucleoside triphosphate triphosphohydrolase SAMHD1 (dNTPase) (EC 3.1.5.-) (Dendritic cell-derived IFNG-induced protein) (DCIP) (Monocyte protein 5) (MOP-5) (SAM domain and HD domain-containing protein 1) (hSAMHD1),SAMHD1 MOP5,SAMHD1
+ENSP00000263056,P41279,M3K8_HUMAN,Mitogen-activated protein kinase kinase kinase 8 (EC 2.7.11.25) (Cancer Osaka thyroid oncogene) (Proto-oncogene c-Cot) (Serine/threonine-protein kinase cot) (Tumor progression locus 2) (TPL-2),MAP3K8 COT ESTF,MAP3K8
+ENSP00000263125,Q04759,KPCT_HUMAN,Protein kinase C theta type (EC 2.7.11.13) (nPKC-theta),PRKCQ PRKCT,PRKCQ
+ENSP00000263246,Q9UNF0,PACN2_HUMAN,Protein kinase C and casein kinase substrate in neurons protein 2 (Syndapin-2) (Syndapin-II),PACSIN2,PACSIN2
+ENSP00000263339,P01583,IL1A_HUMAN,Interleukin-1 alpha (IL-1 alpha) (Hematopoietin-1),IL1A IL1F1,IL1A
+ENSP00000263341,P01584,IL1B_HUMAN,Interleukin-1 beta (IL-1 beta) (Catabolin),IL1B IL1F2,IL1B
+ENSP00000263864,Q9BV40,VAMP8_HUMAN,Vesicle-associated membrane protein 8 (VAMP-8) (Endobrevin) (EDB),VAMP8,VAMP8
+ENSP00000264033,P22681,CBL_HUMAN,E3 ubiquitin-protein ligase CBL (EC 2.3.2.27) (Casitas B-lineage lymphoma proto-oncogene) (Proto-oncogene c-Cbl) (RING finger protein 55) (RING-type E3 ubiquitin transferase CBL) (Signal transduction protein CBL),CBL CBL2 RNF55,CBL
+ENSP00000264246,P33681,CD80_HUMAN,T-lymphocyte activation antigen CD80 (Activation B7-1 antigen) (BB1) (CTLA-4 counter-receptor B7.1) (B7) (CD antigen CD80),CD80 CD28LG CD28LG1 LAB7,CD80
+ENSP00000264260,O95256,I18RA_HUMAN,Interleukin-18 receptor accessory protein (IL-18 receptor accessory protein) (IL-18RAcP) (Accessory protein-like) (AcPL) (CD218 antigen-like family member B) (CDw218b) (IL-1R accessory protein-like) (IL-1RAcPL) (Interleukin-1 receptor 7) (IL-1R-7) (IL-1R7) (Interleukin-18 receptor accessory protein-like) (Interleukin-18 receptor beta) (IL-18R-beta) (IL-18Rbeta) (CD antigen CD218b),IL18RAP IL1R7,IL18RAP
+ENSP00000264436,P35612,ADDB_HUMAN,Beta-adducin (Erythrocyte adducin subunit beta),ADD2 ADDB,ADD2
+ENSP00000264657,P40763,STAT3_HUMAN,Signal transducer and activator of transcription 3 (Acute-phase response factor),STAT3 APRF,STAT3
+ENSP00000264668,Q9UBK8,MTRR_HUMAN,Methionine synthase reductase (MSR) (EC 1.16.1.8),MTRR,MTRR
+ENSP00000264708,P01189,COLI_HUMAN,Pro-opiomelanocortin (POMC) (Corticotropin-lipotropin) [Cleaved into: NPP; Melanotropin gamma (Gamma-MSH); Potential peptide; Corticotropin (Adrenocorticotropic hormone) (ACTH); Melanocyte-stimulating hormone alpha (Alpha-MSH) (Melanotropin alpha); Corticotropin-like intermediary peptide (CLIP); Lipotropin beta (Beta-LPH); Lipotropin gamma (Gamma-LPH); Melanocyte-stimulating hormone beta (Beta-MSH) (Melanotropin beta); Beta-endorphin; Met-enkephalin],POMC,POMC
+ENSP00000264758,P35611,ADDA_HUMAN,Alpha-adducin (Erythrocyte adducin subunit alpha),ADD1 ADDA,ADD1
+ENSP00000264832,P05362,ICAM1_HUMAN,Intercellular adhesion molecule 1 (ICAM-1) (Major group rhinovirus receptor) (CD antigen CD54),ICAM1,ICAM1
+ENSP00000264867,Q9UBK2,PRGC1_HUMAN,Peroxisome proliferator-activated receptor gamma coactivator 1-alpha (PGC-1-alpha) (PPAR-gamma coactivator 1-alpha) (PPARGC-1-alpha) (Ligand effect modulator 6),PPARGC1A LEM6 PGC1 PGC1A PPARGC1,PPARGC1A
+ENSP00000265023,P01042,KNG1_HUMAN,Kininogen-1 (Alpha-2-thiol proteinase inhibitor) (Fitzgerald factor) (High molecular weight kininogen) (HMWK) (Williams-Fitzgerald-Flaujeac factor) [Cleaved into: Kininogen-1 heavy chain; T-kinin (Ile-Ser-Bradykinin); Bradykinin (Kallidin I); Lysyl-bradykinin (Kallidin II); Kininogen-1 light chain; Low molecular weight growth-promoting factor],KNG1 BDK KNG,KNG1
+ENSP00000265171,P01133,EGF_HUMAN,Pro-epidermal growth factor (EGF) [Cleaved into: Epidermal growth factor (Urogastrone)],EGF,EGF
+ENSP00000265800,Q08495,DEMA_HUMAN,Dematin (Dematin actin-binding protein) (Erythrocyte membrane protein band 4.9),DMTN DMT EPB49,DMTN
+ENSP00000267540,Q8WXE9,STON2_HUMAN,Stonin-2 (Stoned B),STON2 STN2 STNB,STON2
+ENSP00000268638,Q02556,IRF8_HUMAN,Interferon regulatory factor 8 (IRF-8) (Interferon consensus sequence-binding protein) (H-ICSBP) (ICSBP),IRF8 ICSBP1,IRF8
+ENSP00000269571,P04626,ERBB2_HUMAN,Receptor tyrosine-protein kinase erbB-2 (EC 2.7.10.1) (Metastatic lymph node gene 19 protein) (MLN 19) (Proto-oncogene Neu) (Proto-oncogene c-ErbB-2) (Tyrosine kinase-type cell surface receptor HER2) (p185erbB2) (CD antigen CD340),ERBB2 HER2 MLN19 NEU NGL,ERBB2
+ENSP00000270142,P00441,SODC_HUMAN,Superoxide dismutase [Cu-Zn] (EC 1.15.1.1) (Superoxide dismutase 1) (hSod1),SOD1,SOD1
+ENSP00000270452,A0A0A0MQW7,A0A0A0MQW7_HUMAN,Leukocyte immunoglobulin-like receptor subfamily B member 4 (Fragment),LILRB4,LILRB4
+ENSP00000271234,Q5T0N5,FBP1L_HUMAN,Formin-binding protein 1-like (Transducer of Cdc42-dependent actin assembly protein 1) (Toca-1),FNBP1L C1orf39 TOCA1,FNBP1L
+ENSP00000272298,P0DP24,CALM2_HUMAN,Calmodulin-2,CALM2 CAM2 CAMB,CALM2
+ENSP00000275015,O00221,IKBE_HUMAN,NF-kappa-B inhibitor epsilon (NF-kappa-BIE) (I-kappa-B-epsilon) (IkB-E) (IkB-epsilon) (IkappaBepsilon),NFKBIE IKBE,NFKBIE
+ENSP00000275493,P00533,EGFR_HUMAN,Epidermal growth factor receptor (EC 2.7.10.1) (Proto-oncogene c-ErbB-1) (Receptor tyrosine-protein kinase erbB-1),EGFR ERBB ERBB1 HER1,EGFR
+ENSP00000276571,P06850,CRF_HUMAN,Corticoliberin (Corticotropin-releasing factor) (CRF) (Corticotropin-releasing hormone),CRH,CRH
+ENSP00000278175,P35318,ADML_HUMAN,ADM [Cleaved into: Adrenomedullin (AM); Proadrenomedullin N-20 terminal peptide (ProAM N-terminal 20 peptide) (PAMP) (ProAM-N20)],ADM AM,ADM
+ENSP00000280357,Q14116,IL18_HUMAN,Interleukin-18 (IL-18) (Iboctadekin) (Interferon gamma-inducing factor) (IFN-gamma-inducing factor) (Interleukin-1 gamma) (IL-1 gamma),IL18 IGIF IL1F4,IL18
+ENSP00000282091,P01270,PTHY_HUMAN,Parathyroid hormone (PTH) (Parathormone) (Parathyrin),PTH,PTH
+ENSP00000283635,P01732,CD8A_HUMAN,T-cell surface glycoprotein CD8 alpha chain (T-lymphocyte differentiation antigen T8/Leu-2) (CD antigen CD8a),CD8A MAL,CD8A
+ENSP00000284818,Q9Y6Y9,LY96_HUMAN,Lymphocyte antigen 96 (Ly-96) (ESOP-1) (Protein MD-2),LY96 ESOP1 MD2,LY96
+ENSP00000284981,P05067,A4_HUMAN,Amyloid-beta A4 protein (ABPP) (APPI) (APP) (Alzheimer disease amyloid protein) (Amyloid precursor protein) (Amyloid-beta precursor protein) (Cerebral vascular amyloid peptide) (CVAP) (PreA4) (Protease nexin-II) (PN-II) [Cleaved into: N-APP; Soluble APP-alpha (S-APP-alpha); Soluble APP-beta (S-APP-beta); C99 (Beta-secretase C-terminal fragment) (Beta-CTF); Amyloid-beta protein 42 (Abeta42) (Beta-APP42); Amyloid-beta protein 40 (Abeta40) (Beta-APP40); C83 (Alpha-secretase C-terminal fragment) (Alpha-CTF); P3(42); P3(40); C80; Gamma-secretase C-terminal fragment 59 (Amyloid intracellular domain 59) (AICD-59) (AID(59)) (Gamma-CTF(59)); Gamma-secretase C-terminal fragment 57 (Amyloid intracellular domain 57) (AICD-57) (AID(57)) (Gamma-CTF(57)); Gamma-secretase C-terminal fragment 50 (Amyloid intracellular domain 50) (AICD-50) (AID(50)) (Gamma-CTF(50)); C31],APP A4 AD1,APP
+ENSP00000286758,O43927,CXL13_HUMAN,C-X-C motif chemokine 13 (Angie) (B cell-attracting chemokine 1) (BCA-1) (B lymphocyte chemoattractant) (CXC chemokine BLC) (Small-inducible cytokine B13),CXCL13 BCA1 BLC SCYB13,CXCL13
+ENSP00000287641,P61278,SMS_HUMAN,Somatostatin (Growth hormone release-inhibiting factor) [Cleaved into: Somatostatin-28; Somatostatin-14],SST,SST
+ENSP00000287820,P37231,PPARG_HUMAN,Peroxisome proliferator-activated receptor gamma (PPAR-gamma) (Nuclear receptor subfamily 1 group C member 3),PPARG NR1C3,PPARG
+ENSP00000290866,P12821,ACE_HUMAN,Angiotensin-converting enzyme (ACE) (EC 3.2.1.-) (EC 3.4.15.1) (Dipeptidyl carboxypeptidase I) (Kininase II) (CD antigen CD143) [Cleaved into: Angiotensin-converting enzyme  soluble form],ACE DCP DCP1,ACE
+ENSP00000291295,P0DP25,CALM3_HUMAN,Calmodulin-3,CALM3 CALML2 CAM3 CAMC CAMIII,CALM3
+ENSP00000291700,P04271,S100B_HUMAN,Protein S100-B (S-100 protein beta chain) (S-100 protein subunit beta) (S100 calcium-binding protein B),S100B,S100B
+ENSP00000291759,P59901,LIRA4_HUMAN,Leukocyte immunoglobulin-like receptor subfamily A member 4 (CD85 antigen-like family member G) (Immunoglobulin-like transcript 7) (ILT-7) (CD antigen CD85g),LILRA4 ILT7,LILRA4
+ENSP00000292301,P41597,CCR2_HUMAN,C-C chemokine receptor type 2 (C-C CKR-2) (CC-CKR-2) (CCR-2) (CCR2) (Monocyte chemoattractant protein 1 receptor) (MCP-1-R) (CD antigen CD192),CCR2 CMKBR2,CCR2
+ENSP00000292303,P51681,CCR5_HUMAN,C-C chemokine receptor type 5 (C-C CKR-5) (CC-CKR-5) (CCR-5) (CCR5) (CHEMR13) (HIV-1 fusion coreceptor) (CD antigen CD195),CCR5 CMKBR5,CCR5
+ENSP00000292807,Q96CW1,AP2M1_HUMAN,AP-2 complex subunit mu (AP-2 mu chain) (Adaptin-mu2) (Adaptor protein complex AP-2 subunit mu) (Adaptor-related protein complex 2 subunit mu) (Clathrin assembly protein complex 2 mu medium chain) (Clathrin coat assembly protein AP50) (Clathrin coat-associated protein AP50) (HA2 50 kDa subunit) (Plasma membrane adaptor AP-2 50 kDa protein),AP2M1 CLAPM1 KIAA0109,AP2M1
+ENSP00000294728,P19320,VCAM1_HUMAN,Vascular cell adhesion protein 1 (V-CAM 1) (VCAM-1) (INCAM-100) (CD antigen CD106),VCAM1,VCAM1
+ENSP00000295025,Q04864,REL_HUMAN,Proto-oncogene c-Rel,REL,REL
+ENSP00000295033,Q9Y577,TRI17_HUMAN,E3 ubiquitin-protein ligase TRIM17 (EC 2.3.2.27) (RING finger protein 16) (RING-type E3 ubiquitin transferase TRIM17) (Testis RING finger protein) (Tripartite motif-containing protein 17),TRIM17 RBCC RNF16 TERF,TRIM17
+ENSP00000295256,O60760,HPGDS_HUMAN,Hematopoietic prostaglandin D synthase (H-PGDS) (EC 5.3.99.2) (GST class-sigma) (Glutathione S-transferase) (EC 2.5.1.18) (Glutathione-dependent PGD synthase) (Glutathione-requiring prostaglandin D synthase) (Prostaglandin-H2 D-isomerase),HPGDS GSTS PGDS PTGDS2,HPGDS
+ENSP00000296026,P19876,CXCL3_HUMAN,C-X-C motif chemokine 3 (GRO-gamma(1-73)) (Growth-regulated protein gamma) (GRO-gamma) (Macrophage inflammatory protein 2-beta) (MIP2-beta) [Cleaved into: GRO-gamma(5-73)],CXCL3 GRO3 GROG SCYB3,CXCL3
+ENSP00000296027,P42830,CXCL5_HUMAN,C-X-C motif chemokine 5 (ENA-78(1-78)) (Epithelial-derived neutrophil-activating protein 78) (Neutrophil-activating peptide ENA-78) (Small-inducible cytokine B5) [Cleaved into: ENA-78(8-78); ENA-78(9-78)],CXCL5 ENA78 SCYB5,CXCL5
+ENSP00000296140,P32246,CCR1_HUMAN,C-C chemokine receptor type 1 (C-C CKR-1) (CC-CKR-1) (CCR-1) (CCR1) (HM145) (LD78 receptor) (Macrophage inflammatory protein 1-alpha receptor) (MIP-1alpha-R) (RANTES-R) (CD antigen CD191),CCR1 CMKBR1 CMKR1 SCYAR1,CCR1
+ENSP00000296795,O15455,TLR3_HUMAN,Toll-like receptor 3 (CD antigen CD283),TLR3,TLR3
+ENSP00000296871,P04141,CSF2_HUMAN,Granulocyte-macrophage colony-stimulating factor (GM-CSF) (Colony-stimulating factor) (CSF) (Molgramostin) (Sargramostim),CSF2 GMCSF,CSF2
+ENSP00000297185,P38646,GRP75_HUMAN,Stress-70 protein  mitochondrial (75 kDa glucose-regulated protein) (GRP-75) (Heat shock 70 kDa protein 9) (Mortalin) (MOT) (Peptide-binding protein 74) (PBP74),HSPA9 GRP75 HSPA9B mt-HSP70,HSPA9
+ENSP00000297494,P29474,NOS3_HUMAN,Nitric oxide synthase  endothelial (EC 1.14.13.39) (Constitutive NOS) (cNOS) (EC-NOS) (Endothelial NOS) (eNOS) (NOS type III) (NOSIII),NOS3,NOS3
+ENSP00000298171,A0A0A0MTJ0,A0A0A0MTJ0_HUMAN,Thyrotropin receptor,TSHR,TSHR
+ENSP00000298838,Q9UKS6,PACN3_HUMAN,Protein kinase C and casein kinase substrate in neurons protein 3 (SH3 domain-containing protein 6511),PACSIN3,PACSIN3
+ENSP00000300289,P30101,PDIA3_HUMAN,Protein disulfide-isomerase A3 (EC 5.3.4.1) (58 kDa glucose-regulated protein) (58 kDa microsomal protein) (p58) (Disulfide isomerase ER-60) (Endoplasmic reticulum resident protein 57) (ER protein 57) (ERp57) (Endoplasmic reticulum resident protein 60) (ER protein 60) (ERp60),PDIA3 ERP57 ERP60 GRP58,PDIA3
+ENSP00000300589,Q9HC29,NOD2_HUMAN,Nucleotide-binding oligomerization domain-containing protein 2 (Caspase recruitment domain-containing protein 15) (Inflammatory bowel disease protein 1),NOD2 CARD15 IBD1,NOD2
+ENSP00000300692,P04234,CD3D_HUMAN,T-cell surface glycoprotein CD3 delta chain (T-cell receptor T3 delta chain) (CD antigen CD3d),CD3D T3D,CD3D
+ENSP00000300747,Q6AZZ1,TRI68_HUMAN,E3 ubiquitin-protein ligase TRIM68 (EC 2.3.2.27) (RING finger protein 137) (RING-type E3 ubiquitin transferase TRIM68) (SSA protein SS-56) (SS-56) (Tripartite motif-containing protein 68),TRIM68 GC109 RNF137 SS56,TRIM68
+ENSP00000301396,C9JFV4,C9JFV4_HUMAN,Proline-  glutamic acid- and leucine-rich protein 1,PELP1,PELP1
+ENSP00000302150,P01236,PRL_HUMAN,Prolactin (PRL),PRL,PRL
+ENSP00000302665,P05019,IGF1_HUMAN,Insulin-like growth factor I (IGF-I) (Mechano growth factor) (MGF) (Somatomedin-C),IGF1 IBP1,IGF1
+ENSP00000302961,P34932,HSP74_HUMAN,Heat shock 70 kDa protein 4 (HSP70RY) (Heat shock 70-related protein APG-2),HSPA4 APG2,HSPA4
+ENSP00000303231,P29459,IL12A_HUMAN,Interleukin-12 subunit alpha (IL-12A) (Cytotoxic lymphocyte maturation factor 35 kDa subunit) (CLMF p35) (IL-12 subunit p35) (NK cell stimulatory factor chain 1) (NKSF1),IL12A NKSF1,IL12A
+ENSP00000303532,O15263,DFB4A_HUMAN,Beta-defensin 4A (Beta-defensin 2) (BD-2) (hBD-2) (Defensin  beta 2) (Skin-antimicrobial peptide 1) (SAP1),DEFB4A DEFB102 DEFB2 DEFB4; DEFB4B,DEFB4A; DEFB4B
+ENSP00000304236,P08571,CD14_HUMAN,Monocyte differentiation antigen CD14 (Myeloid cell-specific leucine-rich glycoprotein) (CD antigen CD14) [Cleaved into: Monocyte differentiation antigen CD14  urinary form; Monocyte differentiation antigen CD14  membrane-bound form],CD14,CD14
+ENSP00000305651,P02778,CXL10_HUMAN,C-X-C motif chemokine 10 (10 kDa interferon gamma-induced protein) (Gamma-IP10) (IP-10) (Small-inducible cytokine B10) [Cleaved into: CXCL10(1-73)],CXCL10 INP10 SCYB10,CXCL10
+ENSP00000306245,P01100,FOS_HUMAN,Proto-oncogene c-Fos (Cellular oncogene fos) (G0/G1 switch regulatory protein 7),FOS G0S7,FOS
+ENSP00000306512,P10145,IL8_HUMAN,Interleukin-8 (IL-8) (C-X-C motif chemokine 8) (Chemokine (C-X-C motif) ligand 8) (Emoctakin) (Granulocyte chemotactic protein 1) (GCP-1) (Monocyte-derived neutrophil chemotactic factor) (MDNCF) (Monocyte-derived neutrophil-activating peptide) (MONAP) (Neutrophil-activating protein 1) (NAP-1) (Protein 3-10C) (T-cell chemotactic factor) [Cleaved into: MDNCF-a (GCP/IL-8 protein IV) (IL8/NAP1 form I); Interleukin-8 ((Ala-IL-8)77) (GCP/IL-8 protein II) (IL-8(1-77)) (IL8/NAP1 form II) (MDNCF-b); IL-8(5-77); IL-8(6-77) ((Ser-IL-8)72) (GCP/IL-8 protein I) (IL8/NAP1 form III) (Lymphocyte-derived neutrophil-activating factor) (LYNAP) (MDNCF-c) (Neutrophil-activating factor) (NAF); IL-8(7-77) (GCP/IL-8 protein V) (IL8/NAP1 form IV); IL-8(8-77) (GCP/IL-8 protein VI) (IL8/NAP1 form V); IL-8(9-77) (GCP/IL-8 protein III) (IL8/NAP1 form VI)],CXCL8 IL8,CXCL8
+ENSP00000306565,Q96AZ6,ISG20_HUMAN,Interferon-stimulated gene 20 kDa protein (EC 3.1.13.1) (Estrogen-regulated transcript 45 protein) (Promyelocytic leukemia nuclear body-associated protein ISG20),ISG20 HEM45,ISG20
+ENSP00000306884,O14625,CXL11_HUMAN,C-X-C motif chemokine 11 (Beta-R1) (H174) (Interferon gamma-inducible protein 9) (IP-9) (Interferon-inducible T-cell alpha chemoattractant) (I-TAC) (Small-inducible cytokine B11),CXCL11 ITAC SCYB11 SCYB9B,CXCL11
+ENSP00000309555,P51610,HCFC1_HUMAN,Host cell factor 1 (HCF) (HCF-1) (C1 factor) (CFF) (VCAF) (VP16 accessory protein) [Cleaved into: HCF N-terminal chain 1; HCF N-terminal chain 2; HCF N-terminal chain 3; HCF N-terminal chain 4; HCF N-terminal chain 5; HCF N-terminal chain 6; HCF C-terminal chain 1; HCF C-terminal chain 2; HCF C-terminal chain 3; HCF C-terminal chain 4; HCF C-terminal chain 5; HCF C-terminal chain 6],HCFC1 HCF1 HFC1,HCFC1
+ENSP00000309572,O14746,TERT_HUMAN,Telomerase reverse transcriptase (EC 2.7.7.49) (HEST2) (Telomerase catalytic subunit) (Telomerase-associated protein 2) (TP2),TERT EST2 TCS1 TRT,TERT
+ENSP00000310127,Q14653,IRF3_HUMAN,Interferon regulatory factor 3 (IRF-3),IRF3,IRF3
+ENSP00000311032,P42574,CASP3_HUMAN,Caspase-3 (CASP-3) (EC 3.4.22.56) (Apopain) (Cysteine protease CPP32) (CPP-32) (Protein Yama) (SREBP cleavage activity 1) (SCA-1) [Cleaved into: Caspase-3 subunit p17; Caspase-3 subunit p12],CASP3 CPP32,CASP3
+ENSP00000311469,P09488,GSTM1_HUMAN,Glutathione S-transferase Mu 1 (EC 2.5.1.18) (GST HB subunit 4) (GST class-mu 1) (GSTM1-1) (GSTM1a-1a) (GSTM1b-1b) (GTH4),GSTM1 GST1,GSTM1
+ENSP00000312988,Q15653,IKBB_HUMAN,NF-kappa-B inhibitor beta (NF-kappa-BIB) (I-kappa-B-beta) (IkB-B) (IkB-beta) (IkappaBbeta) (Thyroid receptor-interacting protein 9) (TR-interacting protein 9) (TRIP-9),NFKBIB IKBB TRIP9,NFKBIB
+ENSP00000313391,P98082,DAB2_HUMAN,Disabled homolog 2 (Adaptor molecule disabled-2) (Differentially expressed in ovarian carcinoma 2) (DOC-2) (Differentially-expressed protein 2),DAB2 DOC2,DAB2
+ENSP00000314363,O95819,M4K4_HUMAN,Mitogen-activated protein kinase kinase kinase kinase 4 (EC 2.7.11.1) (HPK/GCK-like kinase HGK) (MAPK/ERK kinase kinase kinase 4) (MEK kinase kinase 4) (MEKKK 4) (Nck-interacting kinase),MAP4K4 HGK KIAA0687 NIK,MAP4K4
+ENSP00000314733,Q9H0E2,TOLIP_HUMAN,Toll-interacting protein,TOLLIP,TOLLIP
+ENSP00000314807,Q9NPH3,IL1AP_HUMAN,Interleukin-1 receptor accessory protein (IL-1 receptor accessory protein) (IL-1RAcP) (Interleukin-1 receptor 3) (IL-1R-3) (IL-1R3),IL1RAP C3orf13 IL1R3,IL1RAP
+ENSP00000315768,P52630,STAT2_HUMAN,Signal transducer and activator of transcription 2 (p113),STAT2,STAT2
+ENSP00000316328,A0A0B4J1S1,A0A0B4J1S1_HUMAN,MHC class II transactivator,CIITA,CIITA
+ENSP00000317891,Q15025,TNIP1_HUMAN,TNFAIP3-interacting protein 1 (A20-binding inhibitor of NF-kappa-B activation 1) (ABIN-1) (HIV-1 Nef-interacting protein) (Nef-associated factor 1) (Naf1) (Nip40-1) (Virion-associated nuclear shuttling protein) (VAN) (hVAN),TNIP1 KIAA0113 NAF1,TNIP1
+ENSP00000318472,P13591,NCAM1_HUMAN,Neural cell adhesion molecule 1 (N-CAM-1) (NCAM-1) (CD antigen CD56),NCAM1 NCAM,NCAM1
+ENSP00000319279,Q9UDY8,MALT1_HUMAN,Mucosa-associated lymphoid tissue lymphoma translocation protein 1 (EC 3.4.22.-) (MALT lymphoma-associated translocation) (Paracaspase),MALT1 MLT,MALT1
+ENSP00000319984,P08172,ACM2_HUMAN,Muscarinic acetylcholine receptor M2,CHRM2,CHRM2
+ENSP00000320084,Q5ZPR3,CD276_HUMAN,CD276 antigen (4Ig-B7-H3) (B7 homolog 3) (B7-H3) (Costimulatory molecule) (CD antigen CD276),CD276 B7H3 PSEC0249 UNQ309/PRO352,CD276
+ENSP00000320171,P14618,KPYM_HUMAN,Pyruvate kinase PKM (EC 2.7.1.40) (Cytosolic thyroid hormone-binding protein) (CTHBP) (Opa-interacting protein 3) (OIP-3) (Pyruvate kinase 2/3) (Pyruvate kinase muscle isozyme) (Thyroid hormone-binding protein 1) (THBP1) (Tumor M2-PK) (p58),PKM OIP3 PK2 PK3 PKM2,PKM
+ENSP00000320493,Q15642,CIP4_HUMAN,Cdc42-interacting protein 4 (Protein Felic) (Salt tolerant protein) (hSTP) (Thyroid receptor-interacting protein 10) (TR-interacting protein 10) (TRIP-10),TRIP10 CIP4 STOT STP,TRIP10
+ENSP00000320543,O95208,EPN2_HUMAN,Epsin-2 (EPS-15-interacting protein 2),EPN2 KIAA1065,EPN2
+ENSP00000320866,P27797,CALR_HUMAN,Calreticulin (CRP55) (Calregulin) (Endoplasmic reticulum resident protein 60) (ERp60) (HACBP) (grp60),CALR CRTC,CALR
+ENSP00000321203,Q8NFZ5,TNIP2_HUMAN,TNFAIP3-interacting protein 2 (A20-binding inhibitor of NF-kappa-B activation 2) (ABIN-2) (Fetal liver LKB1-interacting protein),TNIP2 ABIN2 FLIP1,TNIP2
+ENSP00000321345,Q5VWK5,IL23R_HUMAN,Interleukin-23 receptor (IL-23 receptor) (IL-23R),IL23R,IL23R
+ENSP00000323479,O75752,B3GL1_HUMAN,UDP-GalNAc:beta-1 3-N-acetylgalactosaminyltransferase 1 (Beta-1 3-GalNAc-T1) (EC 2.4.1.79) (Beta-1 3-galactosyltransferase 3) (Beta-1 3-GalTase 3) (Beta3Gal-T3) (Beta3GalT3) (b3Gal-T3) (Beta-3-Gx-T3) (Galactosylgalactosylglucosylceramide beta-D-acetyl-galactosaminyltransferase) (Globoside synthase) (UDP-N-acetylgalactosamine:globotriaosylceramide beta-1 3-N-acetylgalactosaminyltransferase),B3GALNT1 B3GALT3 UNQ531/PRO1074,B3GALNT1
+ENSP00000324173,P11021,BIP_HUMAN,Endoplasmic reticulum chaperone BiP (EC 3.6.4.10) (78 kDa glucose-regulated protein) (GRP-78) (Binding-immunoglobulin protein) (BiP) (Heat shock protein 70 family protein 5) (HSP70 family protein 5) (Heat shock protein family A member 5) (Immunoglobulin heavy chain-binding protein),HSPA5 GRP78,HSPA5
+ENSP00000324890,P10747,CD28_HUMAN,T-cell-specific surface glycoprotein CD28 (TP44) (CD antigen CD28),CD28,CD28
+ENSP00000329411,Q92985,IRF7_HUMAN,Interferon regulatory factor 7 (IRF-7),IRF7,IRF7
+ENSP00000329418,O15524,SOCS1_HUMAN,Suppressor of cytokine signaling 1 (SOCS-1) (JAK-binding protein) (JAB) (STAT-induced STAT inhibitor 1) (SSI-1) (Tec-interacting protein 3) (TIP-3),SOCS1 SSI1 TIP3,SOCS1
+ENSP00000329967,Q9UHD2,TBK1_HUMAN,Serine/threonine-protein kinase TBK1 (EC 2.7.11.1) (NF-kappa-B-activating kinase) (T2K) (TANK-binding kinase 1),TBK1 NAK,TBK1
+ENSP00000330959,P27930,IL1R2_HUMAN,Interleukin-1 receptor type 2 (IL-1R-2) (IL-1RT-2) (IL-1RT2) (CD121 antigen-like family member B) (CDw121b) (IL-1 type II receptor) (Interleukin-1 receptor beta) (IL-1R-beta) (Interleukin-1 receptor type II) (CD antigen CD121b) [Cleaved into: Interleukin-1 receptor type 2  membrane form (mIL-1R2) (mIL-1RII); Interleukin-1 receptor type 2  soluble form (sIL-1R2) (sIL-1RII)],IL1R2 IL1RB,IL1R2
+ENSP00000331172,P10966,CD8B_HUMAN,T-cell surface glycoprotein CD8 beta chain (CD antigen CD8b),CD8B CD8B1,CD8B
+ENSP00000331602,Q05655,KPCD_HUMAN,Protein kinase C delta type (EC 2.7.11.13) (Tyrosine-protein kinase PRKCD) (EC 2.7.10.2) (nPKC-delta) [Cleaved into: Protein kinase C delta type regulatory subunit; Protein kinase C delta type catalytic subunit (Sphingosine-dependent protein kinase-1) (SDK1)],PRKCD,PRKCD
+ENSP00000331736,P16581,LYAM2_HUMAN,E-selectin (CD62 antigen-like family member E) (Endothelial leukocyte adhesion molecule 1) (ELAM-1) (Leukocyte-endothelial cell adhesion molecule 2) (LECAM2) (CD antigen CD62E),SELE ELAM1,SELE
+ENSP00000331746,P01258,CALC_HUMAN,Calcitonin [Cleaved into: Calcitonin; Katacalcin (Calcitonin carboxyl-terminal peptide) (CCP) (PDN-21)],CALCA CALC1,CALCA
+ENSP00000332049,P42081,CD86_HUMAN,T-lymphocyte activation antigen CD86 (Activation B7-2 antigen) (B70) (BU63) (CTLA-4 counter-receptor B7.2) (FUN-1) (CD antigen CD86),CD86 CD28LG2,CD86
+ENSP00000335062,Q15116,PDCD1_HUMAN,Programmed cell death protein 1 (Protein PD-1) (hPD-1) (CD antigen CD279),PDCD1 PD1,PDCD1
+ENSP00000336747,O00291,HIP1_HUMAN,Huntingtin-interacting protein 1 (HIP-1) (Huntingtin-interacting protein I) (HIP-I),HIP1,HIP1
+ENSP00000336764,P41146,OPRX_HUMAN,Nociceptin receptor (Kappa-type 3 opioid receptor) (KOR-3) (Orphanin FQ receptor),OPRL1 OOR ORL1,OPRL1
+ENSP00000336769,Q6H2H3,Q6H2H3_HUMAN,KIR2DL1 (KIR2DL1 Killer-cell Immunoglobulin-like Receptor) (Killer cell immunoglobulin-like receptor 2DL1) (Killer cell immunoglobulin-like receptor two domains long cytoplasmic tail 1) (Killer-cell immunoglobulin-like receptor) (Natural killer cell inhibitory receptor),KIR2DL1 KIR-2DL1,KIR2DL1
+ENSP00000337383,Q96P20,NLRP3_HUMAN,NACHT  LRR and PYD domains-containing protein 3 (Angiotensin/vasopressin receptor AII/AVP-like) (Caterpiller protein 1.1) (CLR1.1) (Cold-induced autoinflammatory syndrome 1 protein) (Cryopyrin) (PYRIN-containing APAF1-like protein 1),NLRP3 C1orf7 CIAS1 NALP3 PYPAF1,NLRP3
+ENSP00000337825,P06239,LCK_HUMAN,Tyrosine-protein kinase Lck (EC 2.7.10.2) (Leukocyte C-terminal Src kinase) (LSK) (Lymphocyte cell-specific protein-tyrosine kinase) (Protein YT16) (Proto-oncogene Lck) (T cell-specific protein-tyrosine kinase) (p56-LCK),LCK,LCK
+ENSP00000337853,Q9Y4K3,TRAF6_HUMAN,TNF receptor-associated factor 6 (EC 2.3.2.27) (E3 ubiquitin-protein ligase TRAF6) (Interleukin-1 signal transducer) (RING finger protein 85) (RING-type E3 ubiquitin transferase TRAF6),TRAF6 RNF85,TRAF6
+ENSP00000338072,P30518,V2R_HUMAN,Vasopressin V2 receptor (V2R) (AVPR V2) (Antidiuretic hormone receptor) (Renal-type arginine vasopressin receptor),AVPR2 ADHR DIR DIR3 V2R,AVPR2
+ENSP00000339191,Q03135,CAV1_HUMAN,Caveolin-1,CAV1 CAV,CAV1
+ENSP00000339393,P51684,CCR6_HUMAN,C-C chemokine receptor type 6 (C-C CKR-6) (CC-CKR-6) (CCR-6) (Chemokine receptor-like 3) (CKR-L3) (DRY6) (G-protein coupled receptor 29) (GPR-CY4) (GPRCY4) (LARC receptor) (CD antigen CD196),CCR6 CKRL3 CMKBR6 GPR29 STRL22,CCR6
+ENSP00000339398,P01909,DQA1_HUMAN,HLA class II histocompatibility antigen  DQ alpha 1 chain (DC-1 alpha chain) (DC-alpha) (HLA-DCA) (MHC class II DQA1),HLA-DQA1,HLA-DQA1
+ENSP00000339933,P30613,KPYR_HUMAN,Pyruvate kinase PKLR (EC 2.7.1.40) (Pyruvate kinase 1) (Pyruvate kinase isozymes L/R) (R-type/L-type pyruvate kinase) (Red cell/liver pyruvate kinase),PKLR PK1 PKL,PKLR
+ENSP00000340019,P10809,CH60_HUMAN,60 kDa heat shock protein  mitochondrial (EC 3.6.4.9) (60 kDa chaperonin) (Chaperonin 60) (CPN60) (Heat shock protein 60) (HSP-60) (Hsp60) (HuCHA60) (Mitochondrial matrix protein P1) (P60 lymphocyte protein),HSPD1 HSP60,HSPD1
+ENSP00000341208,P42229,STA5A_HUMAN,Signal transducer and activator of transcription 5A,STAT5A STAT5,STAT5A
+ENSP00000342070,P07858,CATB_HUMAN,Cathepsin B (EC 3.4.22.1) (APP secretase) (APPS) (Cathepsin B1) [Cleaved into: Cathepsin B light chain; Cathepsin B heavy chain],CTSB CPSB,CTSB
+ENSP00000342215,P43628,KI2L3_HUMAN,Killer cell immunoglobulin-like receptor 2DL3 (CD158 antigen-like family member B2) (KIR-023GB) (Killer inhibitory receptor cl 2-3) (MHC class I NK cell receptor) (NKAT2a) (NKAT2b) (Natural killer-associated transcript 2) (NKAT-2) (p58 natural killer cell receptor clone CL-6) (p58 NK receptor CL-6) (p58.2 MHC class-I-specific NK receptor) (CD antigen CD158b2),KIR2DL3 CD158B2 KIRCL23 NKAT2,KIR2DL3
+ENSP00000343318,Q9Y2C3,B3GT5_HUMAN,Beta-1 3-galactosyltransferase 5 (Beta-1 3-GalTase 5) (Beta3Gal-T5) (Beta3GalT5) (b3Gal-T5) (EC 2.4.1.-) (Beta-3-Gx-T5) (UDP-Gal:beta-GlcNAc beta-1 3-galactosyltransferase 5) (UDP-galactose:beta-N-acetylglucosamine beta-1 3-galactosyltransferase 5),B3GALT5,B3GALT5
+ENSP00000343782,P13945,ADRB3_HUMAN,Beta-3 adrenergic receptor (Beta-3 adrenoreceptor) (Beta-3 adrenoceptor),ADRB3 ADRB3R B3AR,ADRB3
+ENSP00000343925,Q92731,ESR2_HUMAN,Estrogen receptor beta (ER-beta) (Nuclear receptor subfamily 3 group A member 2),ESR2 ESTRB NR3A2,ESR2
+ENSP00000344192,Q16552,IL17_HUMAN,Interleukin-17A (IL-17) (IL-17A) (Cytotoxic T-lymphocyte-associated antigen 8) (CTLA-8),IL17A CTLA8 IL17,IL17A
+ENSP00000344460,P35520,CBS_HUMAN,Cystathionine beta-synthase (EC 4.2.1.22) (Beta-thionase) (Serine sulfhydrase),CBS,CBS
+ENSP00000346206,Q03518,TAP1_HUMAN,Antigen peptide transporter 1 (APT1) (ATP-binding cassette sub-family B member 2) (Peptide supply factor 1) (Peptide transporter PSF1) (PSF-1) (Peptide transporter TAP1) (Peptide transporter involved in antigen processing 1) (Really interesting new gene 4 protein),TAP1 ABCB2 PSF1 RING4 Y3,TAP1
+ENSP00000347979,P25445,TNR6_HUMAN,Tumor necrosis factor receptor superfamily member 6 (Apo-1 antigen) (Apoptosis-mediating surface antigen FAS) (FASLG receptor) (CD antigen CD95),FAS APT1 FAS1 TNFRSF6,FAS
+ENSP00000348381,Q9UEY8,ADDG_HUMAN,Gamma-adducin (Adducin-like protein 70),ADD3 ADDL,ADD3
+ENSP00000348573,Q99996,AKAP9_HUMAN,A-kinase anchor protein 9 (AKAP-9) (A-kinase anchor protein 350 kDa) (AKAP 350) (hgAKAP 350) (A-kinase anchor protein 450 kDa) (AKAP 450) (AKAP 120-like protein) (Centrosome- and Golgi-localized PKN-associated protein) (CG-NAP) (Protein hyperion) (Protein kinase A-anchoring protein 9) (PRKA9) (Protein yotiao),AKAP9 AKAP350 AKAP450 KIAA0803,AKAP9
+ENSP00000348918,P0DJI8,SAA1_HUMAN,Serum amyloid A-1 protein (SAA) [Cleaved into: Amyloid protein A (Amyloid fibril protein AA); Serum amyloid protein A(2-104); Serum amyloid protein A(3-104); Serum amyloid protein A(2-103); Serum amyloid protein A(2-102); Serum amyloid protein A(4-101)],SAA1,SAA1
+ENSP00000349467,P0DP23,CALM1_HUMAN,Calmodulin-1,CALM1 CALM CAM CAM1,CALM1
+ENSP00000349595,O14983,AT2A1_HUMAN,Sarcoplasmic/endoplasmic reticulum calcium ATPase 1 (SERCA1) (SR Ca(2+)-ATPase 1) (EC 3.6.3.8) (Calcium pump 1) (Calcium-transporting ATPase sarcoplasmic reticulum type  fast twitch skeletal muscle isoform) (Endoplasmic reticulum class 1/2 Ca(2+) ATPase),ATP2A1,ATP2A1
+ENSP00000349770,Q13568,IRF5_HUMAN,Interferon regulatory factor 5 (IRF-5),IRF5,IRF5
+ENSP00000349960,P60709,ACTB_HUMAN,Actin  cytoplasmic 1 (Beta-actin) [Cleaved into: Actin  cytoplasmic 1  N-terminally processed],ACTB,ACTB
+ENSP00000351059,P49238,CX3C1_HUMAN,CX3C chemokine receptor 1 (C-X3-C CKR-1) (CX3CR1) (Beta chemokine receptor-like 1) (CMK-BRL-1) (CMK-BRL1) (Fractalkine receptor) (G-protein coupled receptor 13) (V28),CX3CR1 CMKBRL1 GPR13,CX3CR1
+ENSP00000351255,Q14765,STAT4_HUMAN,Signal transducer and activator of transcription 4,STAT4,STAT4
+ENSP00000351671,P78556,CCL20_HUMAN,C-C motif chemokine 20 (Beta-chemokine exodus-1) (CC chemokine LARC) (Liver and activation-regulated chemokine) (Macrophage inflammatory protein 3 alpha) (MIP-3-alpha) (Small-inducible cytokine A20) [Cleaved into: CCL20(1-67); CCL20(1-64); CCL20(2-70)],CCL20 LARC MIP3A SCYA20,CCL20
+ENSP00000352608,P21817,RYR1_HUMAN,Ryanodine receptor 1 (RYR-1) (RyR1) (Skeletal muscle calcium release channel) (Skeletal muscle ryanodine receptor) (Skeletal muscle-type ryanodine receptor) (Type 1 ryanodine receptor),RYR1 RYDR,RYR1
+ENSP00000352833,A0A0B4J1S7,A0A0B4J1S7_HUMAN,Tyrosine-protein phosphatase non-receptor type 22,PTPN22,PTPN22
+ENSP00000353072,Q93084,AT2A3_HUMAN,Sarcoplasmic/endoplasmic reticulum calcium ATPase 3 (SERCA3) (SR Ca(2+)-ATPase 3) (EC 3.6.3.8) (Calcium pump 3),ATP2A3,ATP2A3
+ENSP00000353099,P01911,2B1F_HUMAN,HLA class II histocompatibility antigen  DRB1-15 beta chain (DW2.2/DR2.2) (MHC class II antigen DRB1*15),HLA-DRB1 HLA-DRB2,HLA-DRB1
+ENSP00000353099,P04229,2B11_HUMAN,HLA class II histocompatibility antigen  DRB1-1 beta chain (MHC class II antigen DRB1*1) (DR-1) (DR1),HLA-DRB1,HLA-DRB1
+ENSP00000353099,Q29974,2B1G_HUMAN,HLA class II histocompatibility antigen  DRB1-16 beta chain (MHC class II antigen DRB1*16) (DR-16) (DR16),HLA-DRB1,HLA-DRB1
+ENSP00000353099,Q9GIY3,2B1E_HUMAN,HLA class II histocompatibility antigen  DRB1-14 beta chain (MHC class II antigen DRB1*14) (DR-14) (DR14),HLA-DRB1,HLA-DRB1
+ENSP00000353224,P02786,TFR1_HUMAN,Transferrin receptor protein 1 (TR) (TfR) (TfR1) (Trfr) (T9) (p90) (CD antigen CD71) [Cleaved into: Transferrin receptor protein 1  serum form (sTfR)],TFRC,TFRC
+ENSP00000354394,P42224,STAT1_HUMAN,Signal transducer and activator of transcription 1-alpha/beta (Transcription factor ISGF-3 components p91/p84),STAT1,STAT1
+ENSP00000354566,P07766,CD3E_HUMAN,T-cell surface glycoprotein CD3 epsilon chain (T-cell surface antigen T3/Leu-4 epsilon chain) (CD antigen CD3e),CD3E T3E,CD3E
+ENSP00000354782,P20963,CD3Z_HUMAN,T-cell surface glycoprotein CD3 zeta chain (T-cell receptor T3 zeta chain) (CD antigen CD247),CD247 CD3Z T3Z TCRZ,CD247
+ENSP00000354901,Q07325,CXCL9_HUMAN,C-X-C motif chemokine 9 (Gamma-interferon-induced monokine) (Monokine induced by interferon-gamma) (HuMIG) (MIG) (Small-inducible cytokine B9),CXCL9 CMK MIG SCYB9,CXCL9
+ENSP00000355536,Q99707,METH_HUMAN,Methionine synthase (EC 2.1.1.13) (5-methyltetrahydrofolate--homocysteine methyltransferase) (Vitamin-B12 dependent methionine synthase) (MS),MTR,MTR
+ENSP00000355627,P01019,ANGT_HUMAN,Angiotensinogen (Serpin A8) [Cleaved into: Angiotensin-1 (Angiotensin 1-10) (Angiotensin I) (Ang I); Angiotensin-2 (Angiotensin 1-8) (Angiotensin II) (Ang II); Angiotensin-3 (Angiotensin 2-8) (Angiotensin III) (Ang III) (Des-Asp[1]-angiotensin II); Angiotensin-4 (Angiotensin 3-8) (Angiotensin IV) (Ang IV); Angiotensin 1-9; Angiotensin 1-7; Angiotensin 1-5; Angiotensin 1-4],AGT SERPINA8,AGT
+ENSP00000355988,O14896,IRF6_HUMAN,Interferon regulatory factor 6 (IRF-6),IRF6,IRF6
+ENSP00000356022,P04179,SODM_HUMAN,Superoxide dismutase [Mn]  mitochondrial (EC 1.15.1.1),SOD2,SOD2
+ENSP00000356134,Q8WVM0,TFB1M_HUMAN,Dimethyladenosine transferase 1  mitochondrial (EC 2.1.1.-) (Mitochondrial 12S rRNA dimethylase 1) (Mitochondrial transcription factor B1) (h-mtTFB) (h-mtTFB1) (hTFB1M) (mtTFB1) (S-adenosylmethionine-6-N'  N'-adenosyl(rRNA) dimethyltransferase 1),TFB1M CGI-75,TFB1M
+ENSP00000356213,P01282,VIP_HUMAN,VIP peptides [Cleaved into: Intestinal peptide PHV-42 (Peptide histidine valine 42); Intestinal peptide PHM-27 (Peptide histidine methioninamide 27); Vasoactive intestinal peptide (VIP) (Vasoactive intestinal polypeptide)],VIP,VIP
+ENSP00000356429,Q08116,RGS1_HUMAN,Regulator of G-protein signaling 1 (RGS1) (B-cell activation protein BL34) (Early response protein 1R20),RGS1 1R20 BL34 IER1,RGS1
+ENSP00000356438,P35354,PGH2_HUMAN,Prostaglandin G/H synthase 2 (EC 1.14.99.1) (Cyclooxygenase-2) (COX-2) (PHS II) (Prostaglandin H2 synthase 2) (PGH synthase 2) (PGHS-2) (Prostaglandin-endoperoxide synthase 2),PTGS2 COX2,PTGS2
+ENSP00000356530,Q05823,RN5A_HUMAN,2-5A-dependent ribonuclease (2-5A-dependent RNase) (EC 3.1.26.-) (Ribonuclease 4) (Ribonuclease L) (RNase L),RNASEL RNS4,RNASEL
+ENSP00000356953,Q99643,C560_HUMAN,Succinate dehydrogenase cytochrome b560 subunit  mitochondrial (Integral membrane protein CII-3) (QPs-1) (QPs1) (Succinate dehydrogenase complex subunit C) (Succinate-ubiquinone oxidoreductase cytochrome B large subunit) (CYBL),SDHC CYB560 SDH3,SDHC
+ENSP00000357066,P05089,ARGI1_HUMAN,Arginase-1 (EC 3.5.3.1) (Liver-type arginase) (Type I arginase),ARG1,ARG1
+ENSP00000357721,P05109,S10A8_HUMAN,Protein S100-A8 (Calgranulin-A) (Calprotectin L1L subunit) (Cystic fibrosis antigen) (CFAG) (Leukocyte L1 complex light chain) (Migration inhibitory factor-related protein 8) (MRP-8) (p8) (S100 calcium-binding protein A8) (Urinary stone protein band A),S100A8 CAGA CFAG MRP8,S100A8
+ENSP00000357726,P80511,S10AC_HUMAN,Protein S100-A12 (CGRP) (Calcium-binding protein in amniotic fluid 1) (CAAF1) (Calgranulin-C) (CAGC) (Extracellular newly identified RAGE-binding protein) (EN-RAGE) (Migration inhibitory factor-related protein 6) (MRP-6) (p6) (Neutrophil S100 protein) (S100 calcium-binding protein A12) [Cleaved into: Calcitermin],S100A12,S100A12
+ENSP00000357727,P06702,S10A9_HUMAN,Protein S100-A9 (Calgranulin-B) (Calprotectin L1H subunit) (Leukocyte L1 complex heavy chain) (Migration inhibitory factor-related protein 14) (MRP-14) (p14) (S100 calcium-binding protein A9),S100A9 CAGB CFAG MRP14,S100A9
+ENSP00000358335,O43318,M3K7_HUMAN,Mitogen-activated protein kinase kinase kinase 7 (EC 2.7.11.25) (Transforming growth factor-beta-activated kinase 1) (TGF-beta-activated kinase 1),MAP3K7 TAK1,MAP3K7
+ENSP00000358983,Q00653,NFKB2_HUMAN,Nuclear factor NF-kappa-B p100 subunit (DNA-binding factor KBF2) (H2TF1) (Lymphocyte translocation chromosome 10 protein) (Nuclear factor of kappa light polypeptide gene enhancer in B-cells 2) (Oncogene Lyt-10) (Lyt10) [Cleaved into: Nuclear factor NF-kappa-B p52 subunit],NFKB2 LYT10,NFKB2
+ENSP00000358997,P51617,IRAK1_HUMAN,Interleukin-1 receptor-associated kinase 1 (IRAK-1) (EC 2.7.11.1),IRAK1 IRAK,IRAK1
+ENSP00000359497,P32456,GBP2_HUMAN,Guanylate-binding protein 2 (EC 3.6.5.-) (GTP-binding protein 2) (GBP-2) (HuGBP-2) (Guanine nucleotide-binding protein 2) (Interferon-induced guanylate-binding protein 2),GBP2,GBP2
+ENSP00000359504,P32455,GBP1_HUMAN,Guanylate-binding protein 1 (EC 3.6.5.-) (GTP-binding protein 1) (GBP-1) (HuGBP-1) (Guanine nucleotide-binding protein 1) (Interferon-induced guanylate-binding protein 1),GBP1,GBP1
+ENSP00000359512,Q9H0R5,GBP3_HUMAN,Guanylate-binding protein 3 (EC 3.6.5.-) (GTP-binding protein 3) (GBP-3) (Guanine nucleotide-binding protein 3),GBP3,GBP3
+ENSP00000359663,P29965,CD40L_HUMAN,CD40 ligand (CD40-L) (T-cell antigen Gp39) (TNF-related activation protein) (TRAP) (Tumor necrosis factor ligand superfamily member 5) (CD antigen CD154) [Cleaved into: CD40 ligand  membrane form; CD40 ligand  soluble form],CD40LG CD40L TNFSF5 TRAP,CD40LG
+ENSP00000359976,P32929,CGL_HUMAN,Cystathionine gamma-lyase (EC 4.4.1.1) (Cysteine-protein sulfhydrase) (Gamma-cystathionase),CTH,CTH
+ENSP00000360266,P05412,JUN_HUMAN,Transcription factor AP-1 (Activator protein 1) (AP1) (Proto-oncogene c-Jun) (V-jun avian sarcoma virus 17 oncogene homolog) (p39),JUN,JUN
+ENSP00000360869,P09914,IFIT1_HUMAN,Interferon-induced protein with tetratricopeptide repeats 1 (IFIT-1) (Interferon-induced 56 kDa protein) (IFI-56K) (P56),IFIT1 G10P1 IFI56 IFNAI1 ISG56,IFIT1
+ENSP00000360891,P09913,IFIT2_HUMAN,Interferon-induced protein with tetratricopeptide repeats 2 (IFIT-2) (ISG-54 K) (Interferon-induced 54 kDa protein) (IFI-54K) (P54),IFIT2 CIG-42 G10P2 IFI54 ISG54,IFIT2
+ENSP00000360973,P50052,AGTR2_HUMAN,Type-2 angiotensin II receptor (Angiotensin II type-2 receptor) (AT2),AGTR2,AGTR2
+ENSP00000361125,J3KPA4,J3KPA4_HUMAN,Vascular endothelial growth factor A,VEGFA,VEGFA
+ENSP00000361359,P25942,TNR5_HUMAN,Tumor necrosis factor receptor superfamily member 5 (B-cell surface antigen CD40) (Bp50) (CD40L receptor) (CDw40) (CD antigen CD40),CD40 TNFRSF5,CD40
+ENSP00000361405,P14780,MMP9_HUMAN,Matrix metalloproteinase-9 (MMP-9) (EC 3.4.24.35) (92 kDa gelatinase) (92 kDa type IV collagenase) (Gelatinase B) (GELB) [Cleaved into: 67 kDa matrix metalloproteinase-9; 82 kDa matrix metalloproteinase-9],MMP9 CLG4B,MMP9
+ENSP00000361850,P00749,UROK_HUMAN,Urokinase-type plasminogen activator (U-plasminogen activator) (uPA) (EC 3.4.21.73) [Cleaved into: Urokinase-type plasminogen activator long chain A; Urokinase-type plasminogen activator short chain A; Urokinase-type plasminogen activator chain B],PLAU,PLAU
+ENSP00000362469,Q9NY64,GTR8_HUMAN,Solute carrier family 2  facilitated glucose transporter member 8 (Glucose transporter type 8) (GLUT-8) (Glucose transporter type X1),SLC2A8 GLUT8 GLUTX1,SLC2A8
+ENSP00000362795,P49682,CXCR3_HUMAN,C-X-C chemokine receptor type 3 (CXC-R3) (CXCR-3) (CKR-L2) (G protein-coupled receptor 9) (Interferon-inducible protein 10 receptor) (IP-10 receptor) (CD antigen CD183),CXCR3 GPR9,CXCR3
+ENSP00000362994,Q13077,TRAF1_HUMAN,TNF receptor-associated factor 1 (Epstein-Barr virus-induced protein 6),TRAF1 EBI6,TRAF1
+ENSP00000363089,O00206,TLR4_HUMAN,Toll-like receptor 4 (hToll) (CD antigen CD284),TLR4,TLR4
+ENSP00000363458,Q5SW96,ARH_HUMAN,Low density lipoprotein receptor adapter protein 1 (Autosomal recessive hypercholesterolemia protein),LDLRAP1 ARH,LDLRAP1
+ENSP00000363827,P98160,PGBM_HUMAN,Basement membrane-specific heparan sulfate proteoglycan core protein (HSPG) (Perlecan) (PLC) [Cleaved into: Endorepellin; LG3 peptide],HSPG2,HSPG2
+ENSP00000363976,P28067,DMA_HUMAN,HLA class II histocompatibility antigen  DM alpha chain (MHC class II antigen DMA) (Really interesting new gene 6 protein),HLA-DMA DMA RING6,HLA-DMA
+ENSP00000364016,P28062,PSB8_HUMAN,Proteasome subunit beta type-8 (EC 3.4.25.1) (Low molecular mass protein 7) (Macropain subunit C13) (Multicatalytic endopeptidase complex subunit C13) (Proteasome component C13) (Proteasome subunit beta-5i) (Really interesting new gene 10 protein),PSMB8 LMP7 PSMB5i RING10 Y2,PSMB8
+ENSP00000364034,Q03519,TAP2_HUMAN,Antigen peptide transporter 2 (APT2) (ATP-binding cassette sub-family B member 3) (Peptide supply factor 2) (Peptide transporter PSF2) (PSF-2) (Peptide transporter TAP2) (Peptide transporter involved in antigen processing 2) (Really interesting new gene 11 protein),TAP2 ABCB3 PSF2 RING11 Y1,TAP2
+ENSP00000364076,P01906,DQA2_HUMAN,HLA class II histocompatibility antigen  DQ alpha 2 chain (DX alpha chain) (HLA class II histocompatibility antigen  DQ(6) alpha chain) (HLA-DQA1) (MHC class II DQA2),HLA-DQA2 HLA-DXA,HLA-DQA2
+ENSP00000364114,Q30154,DRB5_HUMAN,HLA class II histocompatibility antigen  DR beta 5 chain (DR beta-5) (DR2-beta-2) (Dw2) (MHC class II antigen DRB5),HLA-DRB5,HLA-DRB5
+ENSP00000364217,Q15109,RAGE_HUMAN,Advanced glycosylation end product-specific receptor (Receptor for advanced glycosylation end products),AGER RAGE,AGER
+ENSP00000364805,P34931,HS71L_HUMAN,Heat shock 70 kDa protein 1-like (Heat shock 70 kDa protein 1L) (Heat shock 70 kDa protein 1-Hom) (HSP70-Hom),HSPA1L,HSPA1L
+ENSP00000365048,Q9Y275,TN13B_HUMAN,Tumor necrosis factor ligand superfamily member 13B (B lymphocyte stimulator) (BLyS) (B-cell-activating factor) (BAFF) (Dendritic cell-derived TNF-like molecule) (TNF- and APOL-related leukocyte expressed ligand 1) (TALL-1) (CD antigen CD257) [Cleaved into: Tumor necrosis factor ligand superfamily member 13b  membrane form; Tumor necrosis factor ligand superfamily member 13b  soluble form],TNFSF13B BAFF BLYS TALL1 TNFSF20 ZTNF4 UNQ401/PRO738,TNFSF13B
+ENSP00000365380,Q9BZS1,FOXP3_HUMAN,Forkhead box protein P3 (Scurfin) [Cleaved into: Forkhead box protein P3  C-terminally processed; Forkhead box protein P3 41 kDa form],FOXP3 IPEX JM2,FOXP3
+ENSP00000365402,P10321,1C07_HUMAN,HLA class I histocompatibility antigen  Cw-7 alpha chain (MHC class I antigen Cw*7),HLA-C HLAC,HLA-C
+ENSP00000365435,P20333,TNR1B_HUMAN,Tumor necrosis factor receptor superfamily member 1B (Tumor necrosis factor receptor 2) (TNF-R2) (Tumor necrosis factor receptor type II) (TNF-RII) (TNFR-II) (p75) (p80 TNF-alpha receptor) (CD antigen CD120b) (Etanercept) [Cleaved into: Tumor necrosis factor receptor superfamily member 1b  membrane form; Tumor necrosis factor-binding protein 2 (TBP-2) (TBPII)],TNFRSF1B TNFBR TNFR2,TNFRSF1B
+ENSP00000365775,P42898,MTHR_HUMAN,Methylenetetrahydrofolate reductase (EC 1.5.1.20),MTHFR,MTHFR
+ENSP00000365924,Q9BZY9,TRI31_HUMAN,E3 ubiquitin-protein ligase TRIM31 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRIM31) (Tripartite motif-containing protein 31),TRIM31 C6orf13 RNF,TRIM31
+ENSP00000366005,P04439,1A03_HUMAN,HLA class I histocompatibility antigen  A-3 alpha chain (MHC class I antigen A*3),HLA-A HLAA,HLA-A
+ENSP00000366005,P13746,1A11_HUMAN,HLA class I histocompatibility antigen  A-11 alpha chain (MHC class I antigen A*11),HLA-A HLAA,HLA-A
+ENSP00000366005,P16188,1A30_HUMAN,HLA class I histocompatibility antigen  A-30 alpha chain (MHC class I antigen A*30),HLA-A HLAA,HLA-A
+ENSP00000368226,P32189,GLPK_HUMAN,Glycerol kinase (GK) (Glycerokinase) (EC 2.7.1.30) (ATP:glycerol 3-phosphotransferase),GK,GK
+ENSP00000368683,P05305,EDN1_HUMAN,Endothelin-1 (Preproendothelin-1) (PPET1) [Cleaved into: Endothelin-1 (ET-1); Big endothelin-1],EDN1,EDN1
+ENSP00000369293,P01589,IL2RA_HUMAN,Interleukin-2 receptor subunit alpha (IL-2 receptor subunit alpha) (IL-2-RA) (IL-2R subunit alpha) (IL2-RA) (TAC antigen) (p55) (CD antigen CD25),IL2RA,IL2RA
+ENSP00000369299,Q8IYM9,TRI22_HUMAN,E3 ubiquitin-protein ligase TRIM22 (EC 2.3.2.27) (50 kDa-stimulated trans-acting factor) (RING finger protein 94) (RING-type E3 ubiquitin transferase TRIM22) (Staf-50) (Tripartite motif-containing protein 22),TRIM22 RNF94 STAF50,TRIM22
+ENSP00000369373,Q9C035,TRIM5_HUMAN,Tripartite motif-containing protein 5 (EC 2.3.2.27) (RING finger protein 88) (RING-type E3 ubiquitin transferase TRIM5),TRIM5 RNF88,TRIM5
+ENSP00000369554,P01563,IFNA2_HUMAN,Interferon alpha-2 (IFN-alpha-2) (Interferon alpha-A) (LeIF A),IFNA2 IFNA2A IFNA2B IFNA2C,IFNA2
+ENSP00000369647,P01185,NEU2_HUMAN,Vasopressin-neurophysin 2-copeptin (AVP-NPII) [Cleaved into: Arg-vasopressin (Arginine-vasopressin); Neurophysin 2 (Neurophysin-II); Copeptin],AVP ARVP VP,AVP
+ENSP00000370034,Q9NYK1,TLR7_HUMAN,Toll-like receptor 7,TLR7 UNQ248/PRO285,TLR7
+ENSP00000370343,Q15306,IRF4_HUMAN,Interferon regulatory factor 4 (IRF-4) (Lymphocyte-specific interferon regulatory factor) (LSIRF) (Multiple myeloma oncogene 1) (NF-EM5),IRF4 MUM1,IRF4
+ENSP00000370989,Q9NZQ7,PD1L1_HUMAN,Programmed cell death 1 ligand 1 (PD-L1) (PDCD1 ligand 1) (Programmed death ligand 1) (B7 homolog 1) (B7-H1) (CD antigen CD274),CD274 B7H1 PDCD1L1 PDCD1LG1 PDL1,CD274
+ENSP00000371236,P22102,PUR2_HUMAN,Trifunctional purine biosynthetic protein adenosine-3 [Includes: Phosphoribosylamine--glycine ligase (EC 6.3.4.13) (Glycinamide ribonucleotide synthetase) (GARS) (Phosphoribosylglycinamide synthetase); Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1) (AIR synthase) (AIRS) (Phosphoribosyl-aminoimidazole synthetase); Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2) (5'-phosphoribosylglycinamide transformylase) (GAR transformylase) (GART)],GART PGFT PRGS,GART
+ENSP00000371376,Q9Y2C9,TLR6_HUMAN,Toll-like receptor 6 (CD antigen CD286),TLR6,TLR6
+ENSP00000371471,Q8WXG1,RSAD2_HUMAN,Radical S-adenosyl methionine domain-containing protein 2 (Cytomegalovirus-induced gene 5 protein) (Viperin) (Virus inhibitory protein  endoplasmic reticulum-associated  interferon-inducible),RSAD2 CIG5,RSAD2
+ENSP00000371554,P08294,SODE_HUMAN,Extracellular superoxide dismutase [Cu-Zn] (EC-SOD) (EC 1.15.1.1),SOD3,SOD3
+ENSP00000372025,P02686,MBP_HUMAN,Myelin basic protein (MBP) (Myelin A1 protein) (Myelin membrane encephalitogenic protein),MBP,MBP
+ENSP00000375608,P43629,KI3L1_HUMAN,Killer cell immunoglobulin-like receptor 3DL1 (CD158 antigen-like family member E) (HLA-BW4-specific inhibitory NK cell receptor) (MHC class I NK cell receptor) (Natural killer-associated transcript 3) (NKAT-3) (p70 natural killer cell receptor clones CL-2/CL-11) (p70 NK receptor CL-2/CL-11) (CD antigen CD158e),KIR3DL1 CD158E NKAT3 NKB1,KIR3DL1
+ENSP00000376445,P58753,TIRAP_HUMAN,Toll/interleukin-1 receptor domain-containing adapter protein (TIR domain-containing adapter protein) (Adaptor protein Wyatt) (MyD88 adapter-like protein) (MyD88-2),TIRAP MAL,TIRAP
+ENSP00000376500,Q13114,TRAF3_HUMAN,TNF receptor-associated factor 3 (EC 2.3.2.27) (CAP-1) (CD40 receptor-associated factor 1) (CRAF1) (CD40-binding protein) (CD40BP) (LMP1-associated protein 1) (LAP1) (RING-type E3 ubiquitin transferase TRAF3),TRAF3 CAP1 CRAF1,TRAF3
+ENSP00000377083,O75891,AL1L1_HUMAN,Cytosolic 10-formyltetrahydrofolate dehydrogenase (10-FTHFDH) (FDH) (EC 1.5.1.6) (Aldehyde dehydrogenase family 1 member L1),ALDH1L1 FTHFD,ALDH1L1
+ENSP00000377218,P14316,IRF2_HUMAN,Interferon regulatory factor 2 (IRF-2),IRF2,IRF2
+ENSP00000378786,P01903,DRA_HUMAN,HLA class II histocompatibility antigen  DR alpha chain (MHC class II antigen DRA),HLA-DRA HLA-DRA1,HLA-DRA
+ENSP00000379110,P09341,GROA_HUMAN,Growth-regulated alpha protein (C-X-C motif chemokine 1) (GRO-alpha(1-73)) (Melanoma growth stimulatory activity) (MGSA) (Neutrophil-activating protein 3) (NAP-3) [Cleaved into: GRO-alpha(4-73); GRO-alpha(5-73); GRO-alpha(6-73)],CXCL1 GRO GRO1 GROA MGSA SCYB1,CXCL1
+ENSP00000379140,P48061,SDF1_HUMAN,Stromal cell-derived factor 1 (SDF-1) (hSDF-1) (C-X-C motif chemokine 12) (Intercrine reduced in hepatomas) (IRH) (hIRH) (Pre-B cell growth-stimulating factor) (PBSF) [Cleaved into: SDF-1-beta(3-72); SDF-1-alpha(3-67)],CXCL12 SDF1 SDF1A SDF1B,CXCL12
+ENSP00000379612,Q86VP1,TAXB1_HUMAN,Tax1-binding protein 1 (TRAF6-binding protein),TAX1BP1 T6BP PRO0105,TAX1BP1
+ENSP00000379651,Q6PI73,LIRA6_HUMAN,Leukocyte immunoglobulin-like receptor subfamily A member 6 (Immunoglobulin-like transcript 8) (ILT-8) (Leukocyte Ig-like receptor),LILRA6 ILT8,LILRA6
+ENSP00000380073,Q00978,IRF9_HUMAN,Interferon regulatory factor 9 (IRF-9) (IFN-alpha-responsive transcription factor subunit) (ISGF3 p48 subunit) (Interferon-stimulated gene factor 3 gamma) (ISGF-3 gamma) (Transcriptional regulator ISGF3 subunit gamma),IRF9 ISGF3G,IRF9
+ENSP00000380150,Q9BXL7,CAR11_HUMAN,Caspase recruitment domain-containing protein 11 (CARD-containing MAGUK protein 1) (Carma 1),CARD11 CARMA1,CARD11
+ENSP00000380855,Q9BQ51,PD1L2_HUMAN,Programmed cell death 1 ligand 2 (PD-1 ligand 2) (PD-L2) (PDCD1 ligand 2) (Programmed death ligand 2) (Butyrophilin B7-DC) (B7-DC) (CD antigen CD273),PDCD1LG2 B7DC CD273 PDCD1L2 PDL2,PDCD1LG2
+ENSP00000381698,Q9H0F6,SHRPN_HUMAN,Sharpin (Shank-associated RH domain-interacting protein) (Shank-interacting protein-like 1) (hSIPL1),SHARPIN SIPL1 PSEC0216,SHARPIN
+ENSP00000382034,Q5Y7D6,Q5Y7D6_HUMAN,HLA class II histocompatibility antigen  DQ beta 1 chain (MHC class II antigen) (cDNA  FLJ79232  highly similar to HLA class II histocompatibility antigen  DQB1*0602 beta chain),HLA-DQB1,HLA-DQB1
+ENSP00000384273,Q04206,TF65_HUMAN,Transcription factor p65 (Nuclear factor NF-kappa-B p65 subunit) (Nuclear factor of kappa light polypeptide gene enhancer in B-cells 3),RELA NFKB3,RELA
+ENSP00000384886,P13284,GILT_HUMAN,Gamma-interferon-inducible lysosomal thiol reductase (EC 1.8.-.-) (Gamma-interferon-inducible protein IP-30) (Legumaturain),IFI30 GILT IP30,IFI30
+ENSP00000385834,P02787,TRFE_HUMAN,Serotransferrin (Transferrin) (Beta-1 metal-binding globulin) (Siderophilin),TF PRO1400,TF
+ENSP00000386884,P61073,CXCR4_HUMAN,C-X-C chemokine receptor type 4 (CXC-R4) (CXCR-4) (FB22) (Fusin) (HM89) (LCR1) (Leukocyte-derived seven transmembrane domain receptor) (LESTR) (Lipopolysaccharide-associated protein 3) (LAP-3) (LPS-associated protein 3) (NPYRL) (Stromal cell-derived factor 1 receptor) (SDF-1 receptor) (CD antigen CD184),CXCR4,CXCR4
+ENSP00000387662,P01275,GLUC_HUMAN,Glucagon [Cleaved into: Glicentin; Glicentin-related polypeptide (GRPP); Oxyntomodulin (OXM) (OXY); Glucagon; Glucagon-like peptide 1 (GLP-1) (Incretin hormone); Glucagon-like peptide 1(7-37) (GLP-1(7-37)); Glucagon-like peptide 1(7-36) (GLP-1(7-36)); Glucagon-like peptide 2 (GLP-2)],GCG,GCG
+ENSP00000387699,P16220,CREB1_HUMAN,Cyclic AMP-responsive element-binding protein 1 (CREB-1) (cAMP-responsive element-binding protein 1),CREB1,CREB1
+ENSP00000388001,P00973,OAS1_HUMAN,2'-5'-oligoadenylate synthase 1 ((2-5')oligo(A) synthase 1) (2-5A synthase 1) (EC 2.7.7.84) (E18/E16) (p46/p42 OAS),OAS1 OIAS,OAS1
+ENSP00000390020,P13765,DOB_HUMAN,HLA class II histocompatibility antigen  DO beta chain (MHC class II antigen DOB),HLA-DOB,HLA-DOB
+ENSP00000391879,Q12899,TRI26_HUMAN,Tripartite motif-containing protein 26 (EC 2.3.2.27) (Acid finger protein) (AFP) (RING finger protein 95) (Zinc finger protein 173),TRIM26 RNF95 ZNF173,TRIM26
+ENSP00000393566,P20036,DPA1_HUMAN,HLA class II histocompatibility antigen  DP alpha 1 chain (DP(W3)) (DP(W4)) (HLA-SB alpha chain) (MHC class II DP3-alpha) (MHC class II DPA1),HLA-DPA1 HLA-DP1A HLASB,HLA-DPA1
+ENSP00000393776,Q0JRZ9,FCHO2_HUMAN,F-BAR domain only protein 2,FCHO2,FCHO2
+ENSP00000394624,P35372,OPRM_HUMAN,Mu-type opioid receptor (M-OR-1) (MOR-1) (Mu opiate receptor) (Mu opioid receptor) (MOP) (hMOP),OPRM1 MOR1,OPRM1
+ENSP00000395590,P80217,IN35_HUMAN,Interferon-induced 35 kDa protein (IFP 35) (Ifi-35),IFI35 IFP35,IFI35
+ENSP00000396527,H7C0S8,H7C0S8_HUMAN,Uncharacterized protein (Fragment),,
+ENSP00000397073,Q9UDY6,TRI10_HUMAN,Tripartite motif-containing protein 10 (B30-RING finger protein) (RING finger protein 9),TRIM10 RFB30 RNF9,TRIM10
+ENSP00000398632,P16070,CD44_HUMAN,CD44 antigen (CDw44) (Epican) (Extracellular matrix receptor III) (ECMR-III) (GP90 lymphocyte homing/adhesion receptor) (HUTCH-I) (Heparan sulfate proteoglycan) (Hermes antigen) (Hyaluronate receptor) (Phagocytic glycoprotein 1) (PGP-1) (Phagocytic glycoprotein I) (PGP-I) (CD antigen CD44),CD44 LHR MDU2 MDU3 MIC4,CD44
+ENSP00000398698,P01375,TNFA_HUMAN,Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor  membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor  soluble form],TNF TNFA TNFSF2,TNF
+ENSP00000399168,P01889,1B07_HUMAN,HLA class I histocompatibility antigen  B-7 alpha chain (MHC class I antigen B*7),HLA-B HLAB,HLA-B
+ENSP00000399168,P30480,1B42_HUMAN,HLA class I histocompatibility antigen  B-42 alpha chain (MHC class I antigen B*42),HLA-B HLAB,HLA-B
+ENSP00000399168,P30486,1B48_HUMAN,HLA class I histocompatibility antigen  B-48 alpha chain (Bw-48) (MHC class I antigen B*48),HLA-B HLAB,HLA-B
+ENSP00000399168,Q29836,1B67_HUMAN,HLA class I histocompatibility antigen  B-67 alpha chain (MHC class I antigen B*67),HLA-B HLAB,HLA-B
+ENSP00000399168,Q31610,1B81_HUMAN,HLA class I histocompatibility antigen  B-81 alpha chain (B'DT) (MHC class I antigen B*81),HLA-B HLAB,HLA-B
+ENSP00000399168,Q31612,1B73_HUMAN,HLA class I histocompatibility antigen  B-73 alpha chain (MHC class I antigen B*73),HLA-B HLAB,HLA-B
+ENSP00000401399,A0A0A0MSI9,A0A0A0MSI9_HUMAN,Myeloid differentiation primary response protein MyD88,MYD88,MYD88
+ENSP00000403103,X6RGM1,X6RGM1_HUMAN,Interleukin-12 receptor subunit beta-1 (Fragment),IL12RB1,IL12RB1
+ENSP00000403495,P01374,TNFB_HUMAN,Lymphotoxin-alpha (LT-alpha) (TNF-beta) (Tumor necrosis factor ligand superfamily member 1),LTA TNFB TNFSF1,LTA
+ENSP00000404833,A0A0A0MSV9,A0A0A0MSV9_HUMAN,Tapasin,TAPBP,TAPBP
+ENSP00000408146,P04440,DPB1_HUMAN,HLA class II histocompatibility antigen  DP beta 1 chain (HLA class II histocompatibility antigen  DP(W4) beta chain) (MHC class II antigen DPB1),HLA-DPB1 HLA-DP1B,HLA-DPB1
+ENSP00000411658,P18509,PACA_HUMAN,Pituitary adenylate cyclase-activating polypeptide (PACAP) [Cleaved into: PACAP-related peptide (PRP-48); Pituitary adenylate cyclase-activating polypeptide 27 (PACAP-27) (PACAP27); Pituitary adenylate cyclase-activating polypeptide 38 (PACAP-38) (PACAP38)],ADCYAP1,ADCYAP1
+ENSP00000412237,P22301,IL10_HUMAN,Interleukin-10 (IL-10) (Cytokine synthesis inhibitory factor) (CSIF),IL10,IL10
+ENSP00000413625,Q96RU3,FNBP1_HUMAN,Formin-binding protein 1 (Formin-binding protein 17) (hFBP17),FNBP1 FBP17 KIAA0554,FNBP1
+ENSP00000414904,P43234,CATO_HUMAN,Cathepsin O (EC 3.4.22.42),CTSO CTSO1,CTSO
+ENSP00000427279,P19875,CXCL2_HUMAN,C-X-C motif chemokine 2 (Growth-regulated protein beta) (Gro-beta) (Macrophage inflammatory protein 2-alpha) (MIP2-alpha) [Cleaved into: GRO-beta(5-73) (GRO-beta-T) (Hematopoietic synergistic factor) (HSF) (SB-251353)],CXCL2 GRO2 GROB MIP2A SCYB2,CXCL2
+ENSP00000440045,P16615,AT2A2_HUMAN,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2 (SERCA2) (SR Ca(2+)-ATPase 2) (EC 3.6.3.8) (Calcium pump 2) (Calcium-transporting ATPase sarcoplasmic reticulum type  slow twitch skeletal muscle isoform) (Endoplasmic reticulum class 1/2 Ca(2+) ATPase),ATP2A2 ATP2B,ATP2A2
+ENSP00000441600,P51677,CCR3_HUMAN,C-C chemokine receptor type 3 (C-C CKR-3) (CC-CKR-3) (CCR-3) (CCR3) (CKR3) (Eosinophil eotaxin receptor) (CD antigen CD193),CCR3 CMKBR3,CCR3
+ENSP00000441691,P11215,ITAM_HUMAN,Integrin alpha-M (CD11 antigen-like family member B) (CR-3 alpha chain) (Cell surface glycoprotein MAC-1 subunit alpha) (Leukocyte adhesion receptor MO1) (Neutrophil adherence receptor) (CD antigen CD11b),ITGAM CD11B CR3A,ITGAM
